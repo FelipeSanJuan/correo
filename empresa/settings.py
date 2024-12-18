@@ -132,5 +132,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGIN_REDIRECT_URL = 'dashboard'  # Redirige a la vista de dashboard después del login
 LOGOUT_REDIRECT_URL = 'index'  # Redirige a la vista de login después de cerrar sesión
 
-# Configuración de WhiteNoise
+# Configuración de WhiteNois
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
